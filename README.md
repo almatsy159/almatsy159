@@ -1,6 +1,7 @@
 # Welcome to my github
-
-##About Repos :
+## About the autor:
+  Hey , i'm gaetan !
+## About Repos :
 
 in the "training" repo, we put some of my work while in training (php project is already added, we'll add later the java project and the one made for emmaus 
 note : ADAI training was made during covid confinment changing a bit methods and possibilities. 
