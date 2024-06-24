@@ -1,7 +1,16 @@
 # Welcome to my github
 ## About the autor:
-  Hey , i'm Gaëtan Lecomte ! To see the details of each repositories see the next About "About Repos
+  Hey , i'm Gaëtan Lecomte ! I spend most of my times
+  + working on test program
+  + testing different possibilities of structure for the same program
+  + studying information technologie and mathematics but also sciences.
+    
+  To see the details of each repositories see the next About "About Repos
   I am actually 
+  
+  ### looking for a job as apprentice developer
+
+  If you are here you should be aware that i am lloking for a job (fr : en **alternance**).
   
   ### updating my github with programs i writed earlier in my journey. 
   
