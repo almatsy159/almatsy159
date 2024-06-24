@@ -1,6 +1,6 @@
 # Welcome to my github
 ## About the autor:
-  Hey , i'm Gaëtan Lecomte ! 
+  Hey , i'm Gaëtan Lecomte ! To see the details of each repositories see the next About "About Repos
   I am actually 
   
   ### updating my github with programs i writed earlier in my journey. 
@@ -11,7 +11,7 @@
   
   ### ending first django project
   For some reason i will stop here the django portfolio project (only updating content of the main page that is actually the project description).
-  It will be explained shortly in the homepage of the website.
+  It will be explained soon in the homepage of the website.
 
   ### starting second portfolio 
   
@@ -43,29 +43,36 @@
   + Documents will be written and stored in json
   + Have a field Null autorized for Metadoc id
   + Document will be represented via two items in db metadata and data.
-  + Metadata will be stored 
+  + Metadata will be stored in a classical table and Data in json.
+    
 ## About Repos :
 
-### in the "training" repo
+### "training" repo
 we put some of my work while in training 
 (php project is already added, we'll add later the java project and the one made for emmaus 
 note : ADAI training was made during covid confinment changing a bit methods and possibilities. 
 
-### in the "tools" repo, we will add all program that are exploitable, it may need to transform outputs in json or to make a program that do it (should exist on one disk) /!\ need to be created !
+### "tools" repo
+we will add all program that are exploitable, it may need to transform outputs in json or to make a program that do it (should exist on one disk) /!\ need to be created !
 
-### in the "prog" repo, we will allow ourselves to have a more flexible structure , it may depend of the directory don't forget to read the readme files
+### "prog" repo
+we will allow ourselves to have a more flexible structure , it may depend of the directory don't forget to read the readme files
 
-### in the "api" repo, an api already exist but it's structe hasn't been designed yet neither it's manual
+### "api" repo
+an api already exist but it's structe hasn't been designed yet neither it's manual
 
-### in the "django portfolio" project you will find the description of the entire project and the project itself.
-Here is a quck preview of what is done in this project.
+### "django portfolio" project
+you will find the description of project and the project itself.
 
-### in the "site" repo, we will load all html render and static static sites  /!\ need to be created !
+### "site" repo
+we will load all html render and static static sites  /!\ need to be created !
 
-### in the "project" repo, for now there is only EditDoc it's a document editor there is a lot of functionnality (actually needing to affine the redirection system inside of the tools!) 
+### "project" repo
+for now there is only EditDoc it's a document editor there is a lot of functionnality (actually needing to affine the redirection system inside of the tools!) 
 note : here again read the readme to have a better understanding of the project
 
-### in "meta" repo, firstly all goods pratictices must be written out, feed it with each tech / concept learned. it's the repo that will need most of "GED" "electronic document handling?" 
+### "meta" repo
+firstly all goods pratictices must be written out, feed it with each tech / concept learned. it's the repo that will need most of "GED" "electronic document handling?" 
 eventually ressource script and other things will be found there too.
 
 
