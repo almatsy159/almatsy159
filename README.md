@@ -10,7 +10,7 @@
   
   ### looking for a job as apprentice developer
 
-  If you are here you should be aware that i am lloking for a job (fr : en **alternance**).
+  If you are here you should be aware that i am lloking for a job (fr : en **alternance**)
   
   ### updating my github with programs i writed earlier in my journey. 
   
