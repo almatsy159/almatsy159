@@ -4,7 +4,8 @@
   + working on test program
   + testing different possibilities of structure for the same program
   + studying mostly information technologie and mathematics
-
+    
+  I don't post everyday here , i still enjoy working on a blackboard for math or algo works ^^" .
   I have many paper i would like to store as files. This will be the next sites topic.
   
   To see the details of each repositories see the next About "About Repos
