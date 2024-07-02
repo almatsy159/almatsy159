@@ -3,7 +3,7 @@
   Hey , i'm Gaëtan Lecomte ! I spend most of my times
   + working on test program
   + testing different possibilities of structure for the same program
-  + studying information technologie and mathematics but also sciences.
+  + studying mostly information technologie and mathematics
     
   To see the details of each repositories see the next About "About Repos
   I am actually 
