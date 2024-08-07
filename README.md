@@ -1,7 +1,7 @@
 # Welcome to my github
 ## About the autor:
   Hey , i'm Gaëtan Lecomte ! I spend most of my times
-  + working on test program
+  + working on program for fun
   + testing different possibilities of structure for the same program
   + studying mostly information technologie and mathematics
     
