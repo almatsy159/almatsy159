@@ -11,23 +11,20 @@
   To see the details of each repositories see the next About "About Repos
   I am actually 
   
-  ### looking for a job as apprentice developer
+  ### looking for a job as developer
 
-  If you are here you should be aware that i am lloking for a job (fr : en **alternance**)
+  If you are here you should be aware that i am looking for a job 
   
   ### updating my github with programs i writed earlier in my journey. 
   
   It will help me to find good practice, better pratice,
   avoiding some mistake and may evolve in design partern for some modules or for python script in general.
   Those synthesis of programs will be a document in meta and may feed the database of my main project.  
-  
-  ### ending first django project
-  For some reason i will stop here the django portfolio project (only updating content of the main page that is actually the project description).
-  It will be explained soon in the homepage of the website.
 
-  ### starting second portfolio 
-  
-  Once the previous portfolio will be stopped , i will start a new django based portfolio changing the project with things i learned.
+  #### Curently working on two things
+
+-1 Bash script to access my setup immediately
+-2 React | Python project using Ollama as third party
   
   #### API
   
