@@ -5,8 +5,9 @@
   + testing different possibilities of structure for the same program
   + studying mostly information technologie and mathematics
     
-  I don't post everyday here , i still enjoy working on a blackboard or with pen and paper for mathematics or algorithmics works ^^" .
-  I have many paper i would like to store as files. This will be the next sites topic.
+  I don't post everyday here , i still enjoy working on a blackboard or with pen and paper for mathematics or algorithmics tasks ^^" .
+  
+  I have many papers i would like to store as files. This will be the project sites topic.
   
   To see the details of each repositories see the next About "About Repos
   I am actually 
